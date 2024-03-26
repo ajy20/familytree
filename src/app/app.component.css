@@ -1,0 +1,12 @@
+
+/* Add colors to node 1 */
+/* :host ::ng-deep [data-n-id='1'] rect {
+    fill: #750000;
+} */
+
+:host ::ng-deep{
+    #tree {
+        width: 100%;
+        height: 100%;
+    }
+}
